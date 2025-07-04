@@ -11,12 +11,6 @@ An interactive web application that calculates your annual carbon footprint and 
 - **Progress Tracking**: Database storage to track your carbon journey over time
 - **Export Results**: Download your results as CSV files
 
-## Live Demo
-
-
-## Screenshots
-
-
 ## Technology Stack
 
 - **Frontend**: Streamlit (Python web framework)
@@ -24,6 +18,9 @@ An interactive web application that calculates your annual carbon footprint and 
 - **AI**: OpenAI GPT-4o for personalized recommendations
 - **Visualization**: Plotly for interactive charts
 - **Database**: PostgreSQL for data persistence
+
+## Live Demo
+This app runs locally. Follow the installation instructions below to try it yourself!
 
 ## Installation
 
@@ -113,4 +110,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Built with Streamlit for rapid web development
 - AI recommendations powered by OpenAI
 - Icons from emoji collections
-
