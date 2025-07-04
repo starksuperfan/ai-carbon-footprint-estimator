@@ -37,7 +37,7 @@ An interactive web application that calculates your annual carbon footprint and 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ai-carbon-footprint-estimator.git
+git clone https://github.com/starksuperfan/ai-carbon-footprint-estimator.git
 cd ai-carbon-footprint-estimator
 ```
 
